@@ -4,7 +4,10 @@ Building *Fake News Detection* models using
 * *RNN*  ( Recurrent Neural Network )
 
 
-
+---
+#### Unreliable News
 ![Unreliable News](GIFs/Unreliable_News.gif)
 
+---
+#### Reliable News
 ![Reliable News](GIFs/Reliable_News.gif)
